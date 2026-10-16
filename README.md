@@ -34,7 +34,7 @@ For an `Nx × Ny` planar array, the element coordinates are centered around the 
 
 For element position vector
 
-```text
+```
 r_n = (x_n, y_n)
 ```
 
