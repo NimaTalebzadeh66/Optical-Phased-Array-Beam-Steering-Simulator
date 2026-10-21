@@ -34,9 +34,9 @@ For an `Nx × Ny` planar array, the element coordinates are centered around the 
 
 For element position vector
 
-```
+
 r_n = (x_n, y_n)
-```
+
 
 and commanded steering direction
 
