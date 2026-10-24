@@ -157,28 +157,6 @@ This program is a **scalar array-factor model**, not a full-wave electromagnetic
 
 For detailed OPA design, these effects can be added or evaluated using electromagnetic tools such as FDTD/FEM solvers.
 
-## Requirements
 
-- Python 3.10 or newer recommended
-- NumPy
-- Matplotlib
-- Tkinter
-
-Tkinter is normally included with standard Python installations on Windows and macOS. On some Linux distributions it must be installed separately, for example:
-
-```bash
-sudo apt install python3-tk
-```
-
-## Download and Run
-1. Download opa_gui.py from this repository.
-2. Make sure Python 3 is installed.
-3. Install the required Python packages:
-
-```text
-pip install numpy matplotlib
-```   
-
-4. Run the application:
 ## Note
 This project is intended for simulation, visualization, and educational exploration of OPA beam-steering concepts. It should not be interpreted as a complete electromagnetic model of a fabricated OPA device.
